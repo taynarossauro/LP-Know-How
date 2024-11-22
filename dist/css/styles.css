@@ -10835,7 +10835,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: var(--main-blue) !important;
+  background: #0059DF !important;
 }
 
 .font-alt {
