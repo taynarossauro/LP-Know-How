@@ -10978,7 +10978,7 @@ section.cta:before {
 .features-device-mockup .circle {
   position: absolute;
   left: 0;
-  fill: url(#circleGradient);
+  fill: var(--main-blue);
   width: 70%;
   display: none;
 }
