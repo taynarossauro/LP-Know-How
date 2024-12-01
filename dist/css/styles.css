@@ -11090,7 +11090,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 .masthead .masthead-device-mockup .circle {
   position: absolute;
-  fill: var(--main-blue);
+  fill: var(--bs-modal-bg);
   width: 70%;
   display: none;
 }
